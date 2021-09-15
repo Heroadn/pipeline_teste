@@ -1,12 +1,20 @@
 {
   "name": "aplicacaonodeaula",
   "version": "1.0.0",
-  "description": "",
+  "description": "Descrição",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Hellkaiser",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heroadn/pipeline_teste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Heroadn/pipeline_teste/issues"
+  },
+  "homepage": "https://github.com/Heroadn/pipeline_teste#readme"
 }
