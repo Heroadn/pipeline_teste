@@ -4,7 +4,7 @@
   "description": "Descrição",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Hellkaiser",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Heroadn/pipeline_teste/issues"
   },
-  "homepage": "https://github.com/Heroadn/pipeline_teste#readme"
+  "homepage": "https://github.com/Heroadn/pipeline_teste#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
